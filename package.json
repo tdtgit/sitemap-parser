@@ -25,8 +25,8 @@
   "homepage": "https://github.com/shinkawax/sitemap-xml-parser#readme",
   "description": "It parses xml based on sitemap.xml and gets all files described in sitemap. Supports gz format",
   "dependencies": {
-    "bluebird": "^3.5.5",
-    "request": "^2.88.0",
-    "xml2js": "^0.4.19"
+    "bluebird": "^3.7.2",
+    "node-fetch": "^2.6.1",
+    "xml2js": "^0.4.23"
   }
 }
