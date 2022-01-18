@@ -5,7 +5,7 @@
   "private": false,
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node tests/tests.js"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/tdtgit/sitemap-parser/issues"
   },
-  "homepage": "https://github.com/tdtgit/sitemap-parser#readme",
+  "homepage": "https://github.com/tdtgit/sitemap-parser",
   "description": "It parses xml based on sitemap.xml and gets all files described in sitemap. Supports gz format",
   "dependencies": {
     "bluebird": "^3.7.2",
